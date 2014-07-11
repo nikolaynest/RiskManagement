@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Risk Manager</string>
+    <string name="create_project">Создать проект</string>
+    <string name="edit_proj_name">Type project name</string>
+    <string name="lbl_proj_name">Введите название проекта</string>
+    <string name="btn_create_proj">Создать</string>
+    <string name="btn_cancel_proj">Отменить</string>
+    <string name="empty">List is empty</string>
+    <string name="open_proj_btn">Открыть</string>
+    <string name="delete_proj_btn">Удалить</string>
+    <string name="add_event_textview">Добавьте бизнес событие:</string>
+    <string name="add_event_editText">Название события</string>
+    <string name="add_event_button">Добавить</string>
+</resources>
